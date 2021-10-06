@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Hiking NI</string>
+    <string name="pick_a_route">PICK A ROUTE</string>
+    <string name="create_a_route">CREATE A ROUTE</string>
+    <string name="start_route">Start Route</string>
+    <string name="dismiss">dismiss</string>
+    <string name="floating_action_button_to_change_maptype">Floating action Button to change MapType</string>
+    <string name="altitude">Altitude</string>
+    <string name="distanxcelabel">0Km</string>
+    <string name="waypoint_info">waypoint info</string>
+    <string name="finish_route">finish route</string>
+    <string name="timer">Timer</string>
+    <string name="timevalue">00 : 00 :00</string>
+    <string name="distance">DIstance</string>
+    <string name="altvalue">0m</string>
+    <string name="routebackwards">routebackwards</string>
+    <string name="routeforwards">routeForwards</string>
+    <string name="save_route">SAVE ROUTE</string>
+    <string name="enter_route_description">ENTER ROUTE DESCRIPTION</string>
+    <string name="route_description">Route Description</string>
+    <string name="enter_route_name">ENTER ROUTE NAME</string>
+    <string name="route_name">Route Name</string>
+    <string name="route_name_rv">route name</string>
+    <string name="route_desc_rv">route desc</string>
+    <string name="wayPointDesctTitle">Give this waypoint a description</string>
+    <string name="submit_waypoint_btn">Submit waypoint</string>
+    <string name="waypointimage">waypointImage</string>
+    <string name="add_image">Add image</string>
+    <string name="enter_a_brief_description">Enter a brief description</string>
+    <string name="set_a_waypoint">SET A WAYPOINT</string>
+    <string name="route_overview">ROUTE OVERVIEW</string>
+    <string name="total_route_duration_00_00_00">Total Route Duration : 00 : 00 :00</string>
+    <string name="total_distance_travelled_0_0km">Total Distance Travelled : 0.0Km</string>
+    <string name="snapshot_over_map">snapshot over map</string>
+    <string name="todo">TODO</string>
+    <string name="hiking_ni_title">HIKING NI</string>
+    <string name="button_login">Button</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="register_button">Register</string>
+    <string name="defaultRecordingStatus">RECORDING NOT STARTED</string>
+    <string name="PAUSE_RECORD">RECORDING PAUSED</string>
+    <string name="RECORDING_ROUTE">RECORDING ROUTE</string>
+
+</resources>

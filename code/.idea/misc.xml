@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.22552083333333334" />
+        <entry key="app/src/main/res/drawable/hamburgercircle.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/drawable/hikingApp_LauncherIcon_background.xml" value="0.4083333333333333" />
+        <entry key="app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.15885416666666666" />
+        <entry key="app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.22291666666666668" />
+        <entry key="app/src/main/res/drawable/pill_button.xml" value="0.21927083333333333" />
+        <entry key="app/src/main/res/drawable/points_arrow_forward_24.xml" value="0.2734375" />
+        <entry key="app/src/main/res/drawable/points_back_arrow.xml" value="0.2734375" />
+        <entry key="app/src/main/res/drawable/waypoint_bottom_disalog_sheet.xml" value="0.28854166666666664" />
+        <entry key="app/src/main/res/layout-v28/route_rv_item.xml" value="0.2441123188405797" />
+        <entry key="app/src/main/res/layout-v28/route_rvuser_item.xml" value="0.22135416666666666" />
+        <entry key="app/src/main/res/layout/activity_breadcrumb_deail.xml" value="0.18958333333333333" />
+        <entry key="app/src/main/res/layout/activity_breadcrumb_detail.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_create_route.xml" value="0.234375" />
+        <entry key="app/src/main/res/layout/activity_create_route_info.xml" value="0.27447916666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.27717391304347827" />
+        <entry key="app/src/main/res/layout/activity_route.xml" value="0.37318840579710144" />
+        <entry key="app/src/main/res/layout/activity_route_lister.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_route_overview.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_user_dashboard.xml" value="0.190625" />
+        <entry key="app/src/main/res/layout/activity_user_login.xml" value="0.27717391304347827" />
+        <entry key="app/src/main/res/layout/activity_user_register.xml" value="0.3632246376811594" />
+        <entry key="app/src/main/res/layout/activity_user_reset_password.xml" value="0.20677083333333332" />
+        <entry key="app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/createroutelayout.xml" value="0.45" />
+        <entry key="app/src/main/res/layout/layout_btootm_dialog_waypoint.xml" value="0.27239583333333334" />
+        <entry key="app/src/main/res/layout/route_rv_item.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/routeactivitydisplay.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/routeadapterrow.xml" value="0.17481884057971014" />
+        <entry key="app/src/main/res/layout/waypointdetailipopup.xml" value="0.296195652173913" />
+        <entry key="app/src/main/res/menu/popupmenu.xml" value="0.203125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/hikingapp_launcherIcon.xml" value="0.2557291666666667" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/hikingapp_launcher_icon_round.xml" value="0.24427083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

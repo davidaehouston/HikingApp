@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611752188305",
+    "project_id": "csc7057-40316857",
+    "storage_bucket": "csc7057-40316857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611752188305:android:ea19148a49d9a782442230",
+        "android_client_info": {
+          "package_name": "houston.david.hikingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611752188305-gdmem70v8s94ulhe6tpb5kcgs69k9tvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNb1cqYuTo62LTD7Y-dX92uYTdfYHCMlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611752188305-gdmem70v8s94ulhe6tpb5kcgs69k9tvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
